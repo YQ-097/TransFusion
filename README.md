@@ -1,2 +1,2 @@
-# MHPFusion
-Codes for “MHPFusion: Infrared and Visible Image Fusion Based on Multilevel Heterogeneous Perception” will be released upon publication.
+# TransFusion
+Codes for “TransFusion: Transfer Learning-Driven Adaptive Fusion Strategy Design for Infrared and Visible Image” will be released upon publication.
